@@ -4,7 +4,7 @@ cycler==0.10.0
 Cython==0.29.22
 ephem==3.7.7.1
 fbprophet==0.6
-gunicorn==20.1.0
+gunicorn==19.7.1
 hijri-converter==2.1.1
 holidays==0.11.1
 kiwisolver==1.3.1
