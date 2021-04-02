@@ -1,1 +1,1 @@
-web:gunicorn forecast_engine:server
+web: gunicorn forecast_engine:server
